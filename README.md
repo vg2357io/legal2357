@@ -12,14 +12,14 @@ Todos los contenidos están sujetos estrictamente a la **legalidad española** y
 
 * [2357](https://2357.io)
 
-* [Cookies](/cookies)
+* [Cookies](/cookies.md)
 
-* [Aviso legal](/aviso_legal)
+* [Aviso legal](/aviso_legal.md)
 
-* [Condiciones de uso](/condiciones_de_uso)
+* [Condiciones de uso](/condiciones_de_uso.md)
 
-* [Privacidad de datos](/privacidad_de_datos)
+* [Privacidad de datos](/privacidad_de_datos.md)
 
-* [Guía de uso ética](/guía_de_uso_etica)
+* [Guía de uso ética](/guía_de_uso_etica.md)
 
 Contacto por correo [**legal2357io**](mailto:legal@2357.io).
