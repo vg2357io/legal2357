@@ -8,6 +8,8 @@ Los portales de acceso que sí puedes compartir son públicos en las redes del F
 
 Todos los contenidos están sujetos estrictamente a la **legalidad española** y a la mayoría de leyes de cualquier país.
 
+Estos documentos legales están pensados para ayudar a todas las partes a disfrutar cada día en su camino.
+
 Índice de documentos legales:
 
 * [2357](https://2357.io)
