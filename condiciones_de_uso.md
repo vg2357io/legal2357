@@ -8,7 +8,7 @@
 
 Las presentes **Condiciones de Uso** regulan el acceso y utilización de los portales web asociados al dominio principal **2357.io** y a sus subdominios dependientes, gestionados por **Valentí Gàmez Rojas** (en adelante, *el Fénix Humano* o *el Responsable*).
 
-El ecosistema **2357 — El Código de lo Oculto** forma parte del universo narrativo y artístico **Mad Fénix** y **Dormant Lands**, un proyecto de criptoarte, creación simbólica y divulgación cultural que integra componentes digitales, criptográficos y filosóficos.
+El ecosistema **2357 — El Código de lo Oculto** forma parte del universo narrativo y artístico **Névoran** y **Dormant Lands**, un proyecto de criptoarte, creación simbólica y divulgación cultural que integra componentes digitales, criptográficos y filosóficos.
 
 El acceso a cualquiera de los sitios bajo el dominio `*.2357.io` implica la **aceptación plena** de estas Condiciones, así como del **Aviso Legal**, la **Política de Cookies** y la **Política de Privacidad** disponibles en [https://legal.2357.io](https://legal.2357.io).
 
@@ -33,7 +33,7 @@ El usuario se compromete a:
 - Utilizar los sitios y sus servicios de forma responsable, ética y conforme a la legislación vigente.
 - No emplear los contenidos o herramientas para actividades ilícitas o contrarias a los valores del proyecto.
 - No vulnerar ni alterar áreas protegidas sin autorización.
-- Respetar las normas de convivencia, simbología y narrativa del universo **Mad Fénix** y **Dormant Lands**.
+- Respetar las normas de convivencia, simbología y narrativa del universo **Névoran** y **Dormant Lands**.
 
 El incumplimiento de estas normas podrá implicar la suspensión o eliminación del acceso del usuario.
 
@@ -71,6 +71,7 @@ Cada uno podrá incorporar cláusulas complementarias que amplíen o detallen es
 Ejemplos:
 
 - `art.2357.io`: exposiciones y experiencias de criptoarte.
+- `public.2357.io` → Blog público y elementos que se pueden compartir como rankings o notas de prensa.
 - `hub.2357.io`: autenticación, gestión de usuario y comunidad.
 - `api.2357.io`: servicios técnicos y validación de tokens.
 - `legal.2357.io`: documentación jurídica del proyecto.
@@ -89,7 +90,7 @@ Se prohíbe expresamente:
 
 - Difundir material que infrinja derechos de terceros.
 - Usar el proyecto con fines radicales en política, religión o cualquier entidad que promueva un sistema de valores.
-- Alterar, piratear o redistribuir contenido protegido del universo **Mad Fénix** y **Dormant Lands**.
+- Alterar, piratear o redistribuir contenido protegido del universo **Névoran** y **Dormant Lands**.
 - Suplantar identidades o interferir en los sistemas de otros usuarios.
 
 El incumplimiento podrá dar lugar a la expulsión o veto de acceso y las acciones legales oportunas.

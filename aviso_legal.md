@@ -12,9 +12,9 @@ En cumplimiento de lo dispuesto en la **Ley 34/2002**, de 11 de julio, de Servic
 **Nombre artístico / público:** Fénix Humano — *vg2357io*  
 **Correo electrónico:** [legal@2357.io](mailto:legal@2357.io)  
 **Sitio principal:** [https://2357.io](https://2357.io)  
-**Subdominios asociados:** `legal.2357.io`, `art.2357.io`, `api.2357.io`, `hub.2357.io`, `play.2357.io`, y cualesquiera otros que se creen bajo el dominio `*.2357.io`.
+**Subdominios asociados:** `legal.2357.io`, `art.2357.io`, `public.2357.io`, `api.2357.io`, `hub.2357.io`, `play.2357.io`, y cualesquiera otros que se creen bajo el dominio `*.2357.io`.
 
-El proyecto **2357 — El Código de lo Oculto** forma parte del universo narrativo y artístico **Mad Fénix** y **Dormant Lands**, coordinado por el Fénix Humano (*Valentí Gàmez Rojas*), y tiene como finalidad la divulgación de obras de **criptoarte**, experiencias interactivas y material cultural vinculado a la filosofía del renacimiento personal.
+El proyecto **2357 — El Código de lo Oculto** forma parte del universo narrativo y artístico **Névoran** y **Dormant Lands**, coordinado por el Fénix Humano (*Valentí Gàmez Rojas*), y tiene como finalidad la divulgación de obras de **criptoarte**, experiencias interactivas y material cultural vinculado a la filosofía del renacimiento personal.
 
 ---
 
@@ -22,7 +22,7 @@ El proyecto **2357 — El Código de lo Oculto** forma parte del universo narrat
 
 Los portales bajo el dominio `2357.io` y sus subdominios tienen como finalidad ofrecer:
 
-- Contenidos artísticos, narrativos y criptográficos del proyecto *Mad Fénix* y *Dormant Lands*.
+- Contenidos artísticos, narrativos y criptográficos del proyecto *Névoran* y *Dormant Lands*.
 - Acceso a la **Biblioteca Criptográfica de los Fénix Humanos**, retos y experiencias interactivas.
 - Comunicación y documentación legal de la comunidad y del titular.
 - En determinados casos, servicios complementarios (autenticación, API, descifrado simbólico, etc.).
@@ -37,7 +37,7 @@ Todos los contenidos, textos, imágenes, logotipos, nombres, obras gráficas, c�
 
 Queda **prohibida cualquier reproducción, distribución, comunicación pública o transformación** de los contenidos sin autorización previa y por escrito del titular.
 
-Se reconoce la autoría artística y narrativa de **Valentí Gàmez Rojas (Fénix Humano)**, así como la identidad simbólica y narrativa de los proyectos **Mad Fénix** y **Dormant Lands** y su derivado **2357 — El Código de lo Oculto**, considerados obras creativas protegidas por el **Real Decreto Legislativo 1/1996**, de 12 de abril (Ley de Propiedad Intelectual).
+Se reconoce la autoría artística y narrativa de **Valentí Gàmez Rojas (Fénix Humano)**, así como la identidad simbólica y narrativa de los proyectos **Névoran**, **Dormant Lands** y **2357 — El Código de lo Oculto**, considerados obras creativas protegidas por el **Real Decreto Legislativo 1/1996**, de 12 de abril (Ley de Propiedad Intelectual).
 
 > “No está permitido bajo ninguna circunstancia revelar los secretos de la biblioteca, aunque sí puedes ayudar a otros a encontrarlos.”  
 > — *2357 — El Código de lo Oculto*
@@ -50,7 +50,7 @@ El usuario se compromete a:
 
 - No utilizar los contenidos con fines ilícitos, contrarios a la buena fe o a la moral.
 - No provocar daños a los sistemas físicos o lógicos del sitio, ni introducir virus informáticos o cualquier otro elemento susceptible de alterar su funcionamiento.
-- Respetar la simbología, filosofía y derechos de autor del universo **Mad Fénix**, **Dormant Lands** y de su comunidad.
+- Respetar la simbología, filosofía y derechos de autor del universo **Névoran**, **Dormant Lands** y de su comunidad.
 - Abstenerse de divulgar códigos, claves o materiales no públicos sin autorización expresa.
 
 El Responsable se reserva el derecho a denegar el acceso o eliminar cuentas de usuarios que incumplan estas condiciones.

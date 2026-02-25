@@ -14,7 +14,7 @@ Esta guía complementa las disposiciones del **Aviso Legal**, las **Condiciones 
 
 ## 2. Principios del Fénix
 
-El universo **Mad Fénix** y su código **2357** se fundamentan en cuatro virtudes esenciales:
+El código **2357** se fundamenta en cuatro virtudes esenciales:
 
 | Cifra | Virtud | Significado Ético                                                   |
 |:------|:--------|:--------------------------------------------------------------------|
@@ -70,9 +70,9 @@ Queda expresamente prohibido:
 
 Los artistas, desarrolladores y colaboradores que participen en proyectos derivados o asociados a **2357.io** deberán:
 
-- Respetar la **autenticidad narrativa y simbólica** del universo Mad Fénix y Dormant Lands.
+- Respetar la **autenticidad narrativa y simbólica** del universo Névoran y Dormant Lands.
 - Garantizar la **transparencia** en la autoría y atribución de las obras.
-- Aplicar licencias adecuadas y coherentes con la [**Licencia Llama del Fénix**](https://universo.madfenix.com/books/licencia/page/licencia-llama-del-fenix-v-10) o sus equivalentes comunitarios.
+- Aplicar licencias adecuadas y coherentes con la [**Licencia Llama del Fénix v1.1**](https://docs.valentigamez.com/#/nevoran/LICENSE) o sus equivalentes comunitarios.
 - No utilizar la marca, los símbolos o los elementos narrativos del Fénix sin permiso expreso.
 
 ---
@@ -82,6 +82,7 @@ Los artistas, desarrolladores y colaboradores que participen en proyectos deriva
 Cada subdominio de **2357.io** representa una faceta del mismo universo ético:
 
 - `art.2357.io` → Espacio artístico y cripto-simbólico.
+- `public.2357.io` → Blog público y elementos que se pueden compartir como rankings o notas de prensa.
 - `hub.2357.io` → Comunidad, autenticación y vínculos entre viajeros.
 - `api.2357.io` → Núcleo técnico y canal de comunicación entre servicios.
 - `play.2357.io` → Experiencias interactivas o gamificadas.

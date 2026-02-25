@@ -15,7 +15,7 @@ La presente **Política de Cookies** regula el uso de los dominios y subdominios
 Las **cookies** son pequeños archivos de texto que los sitios web almacenan en el dispositivo del usuario al navegar.  
 Su finalidad puede ser técnica (permitir el funcionamiento de la web), analítica (medir el uso y rendimiento), de personalización o publicitaria.
 
-Además de las cookies tradicionales, el ecosistema **2357.io** puede incluir tecnologías equivalentes como almacenamiento local, tokens de sesión, fingerprints o etiquetas criptográficas empleadas para la interacción entre dominios del universo **Mad Fénix** o dominios personales del Responsable.
+Además de las cookies tradicionales, el ecosistema **2357.io** puede incluir tecnologías equivalentes como almacenamiento local, tokens de sesión, fingerprints o etiquetas criptográficas empleadas para la interacción entre dominios del universo **Névoran** o dominios personales del Responsable.
 
 ---
 
@@ -36,6 +36,7 @@ Además de las cookies tradicionales, el ecosistema **2357.io** puede incluir te
 Esta política se aplica al dominio `2357.io` y a **todos los subdominios actuales y futuros** bajo `*.2357.io`, entre ellos:
 
 - `legal.2357.io` — documentos legales y avisos normativos
+- `public.2357.io` — Blog público y elementos que se pueden compartir como rankings o notas de prensa.
 - `art.2357.io` — plataforma de arte criptográfico
 - `api.2357.io` — servicios y autenticación técnica
 - `hub.2357.io` — red de gestión
